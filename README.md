@@ -8,8 +8,7 @@ Este projeto ajuda-te a calcular o consumo e o custo de combustível de forma r�
 - Interface simples e intuitiva para uso rápido.
 
 # Preview
-  <img width="1124" height="693" alt="image" src="https://github.com/user-attachments/assets/034f3ff2-875d-4e98-a453-4b3aadce0ad1" />
-
+![example](https://github.com/user-attachments/assets/e1fa92f9-4b78-4487-bd10-6fbdc8d1e1c1)
 
 # Como usar: 
 - Via web: Acesse diretamente o app [aqui](https://t-ros-calculadora-de-combustivel-app-ra01jb.streamlit.app/).  
